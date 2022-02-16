@@ -1,0 +1,17 @@
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.img-box {
+  width: 640px;
+  height: 480px;
+  float: left;
+}
+
+#tableBanner {
+  width: 128px;
+  height: 128px;
+  float: left;
+  margin-left: 10px;
+}
